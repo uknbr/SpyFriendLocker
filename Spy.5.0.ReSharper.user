@@ -1,0 +1,204 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:BitmapSource.cs" caret="0" fromTop="0" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Program.cs" caret="0" fromTop="0" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.Designer.cs" caret="670" fromTop="21" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="7925" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="4525" fromTop="11" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="4381" fromTop="116" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="9476" fromTop="15" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="9381" fromTop="13" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="7585" fromTop="9" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="8797" fromTop="18" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="7768" fromTop="8" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="4148" fromTop="25" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="6680" fromTop="24" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="6050" fromTop="39" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="9296" fromTop="38" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="9499" fromTop="38" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="885" fromTop="27" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="1708" fromTop="37" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="1916" fromTop="25" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="2160" fromTop="24" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="6515" fromTop="24" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="1316" fromTop="32" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="7440" fromTop="25" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="2518" fromTop="24" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="3101" fromTop="8" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="3411" fromTop="16" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="3043" fromTop="6" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="7292" fromTop="15" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="8649" fromTop="30" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="6875" fromTop="15" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="1324" fromTop="18" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="1057" fromTop="11" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="2043" fromTop="13" />
+      <File id="ACB6DEE6-B510-446C-9DF8-BB6B5FF4D25C/f:Form1.cs" caret="9044" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="processos" priority="0" />
+      <Item value="lockWinButton_Click`0" priority="0" />
+      <Item value="lockWin`0" priority="2" />
+      <Item value="private" priority="5" />
+      <Item value="void" priority="4" />
+      <Item value="String`0" priority="5" />
+      <Item value="killProcess`0" priority="0" />
+      <Item value="getCamList`0" priority="1" />
+      <Item value="btnStart" priority="2" />
+      <Item value="status" priority="0" />
+      <Item value="Status" priority="0" />
+      <Item value="videoSource" priority="1" />
+      <Item value="CloseVideoSource`0" priority="1" />
+      <Item value="img" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="countCam" priority="3" />
+      <Item value="DateTime`0" priority="5" />
+      <Item value="pictureBox1" priority="1" />
+      <Item value="t" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="comboBox1" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="killAll`0" priority="1" />
+      <Item value="if" priority="3" />
+      <Item value="processo" priority="1" />
+      <Item value="countProcess`0" priority="1" />
+      <Item value="MessageBox`0" priority="6" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="2" />
+      <Item value="break" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="Process" priority="0" />
+      <Item value="denyProcess`0" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="P" priority="0" />
+      <Item value="file" priority="0" />
+      <Item value="t_Tick`0" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="FileNotFoundException`0" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="killed" priority="1" />
+      <Item value="true" priority="2" />
+      <Item value="getDir`0" priority="4" />
+      <Item value="File`0" priority="1" />
+      <Item value="folder" priority="0" />
+      <Item value="chkHide" priority="0" />
+      <Item value="frmPrincipal`0" priority="2" />
+      <Item value="new" priority="0" />
+      <Item value="frmPrincipal" priority="0" />
+      <Item value="Spy" priority="0" />
+      <Item value="Program`0" priority="0" />
+      <Item value="Properties" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="name" priority="0" />
+      <Item value="save" priority="0" />
+      <Item value="DeviceExist" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="field" priority="0" />
+      <Item value="timer" priority="1" />
+      <Item value="getConfigFromINI`0" priority="1" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="pathSave" priority="4" />
+      <Item value="devices`0" priority="0" />
+      <Item value="KillOnly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="0" />
+      <Item value="PerformClick`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.StatusStrip">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItem">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AForge.Video.DirectShow.VideoCaptureDevice">
+      <Item value="VideoCapabilities" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Save`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Hour" priority="2" />
+      <Item value="Date" priority="0" />
+      <Item value="Minute" priority="1" />
+      <Item value="Second" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="Month" priority="0" />
+      <Item value="Year" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="0" />
+      <Item value="Tick" priority="0" />
+      <Item value="Interval" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="ProcessName" priority="0" />
+      <Item value="Kill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Spy.frmPrincipal">
+      <Item value="Visible" priority="2" />
+      <Item value="videoSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt16`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
