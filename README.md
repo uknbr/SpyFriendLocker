@@ -12,6 +12,10 @@ automatically terminate by locking the system.
 - .NET Framework 4.0 (or above)
 - Webcam (Integrated or USB)
 
+## Download
+[1.1.0](https://github.com/uknbr/SpyFriendLocker/releases/download/1.1.0/Spy_v1.1.ukN.BR.zip)
+[1.0.0](https://github.com/uknbr/SpyFriendLocker/releases/download/1.0.0/Spy_v1.0.ukN.BR.zip)
+
 ## Screeshots
 ![alt text](demo/example4.png "Ready to start!")\
 ![alt text](demo/example.png "Monitoring & Recording")\
