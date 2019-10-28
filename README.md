@@ -13,8 +13,9 @@ automatically terminate by locking the system.
 - Webcam (Integrated or USB)
 
 ## Download
-[1.1.0](https://github.com/uknbr/SpyFriendLocker/releases/download/1.1.0/Spy_v1.1.ukN.BR.zip)\
-[1.0.0](https://github.com/uknbr/SpyFriendLocker/releases/download/1.0.0/Spy_v1.0.ukN.BR.zip)
+- Initial version: [1.1.0](https://github.com/uknbr/SpyFriendLocker/releases/download/1.1.0/Spy_v1.1.ukN.BR.zip)\
+- Support new image formats: [1.0.0](https://github.com/uknbr/SpyFriendLocker/releases/download/1.0.0/Spy_v1.0.ukN.BR.zip)
+- Configuration section: **soon**
 
 ## Configuration
 - The **proc.dat** file contains the processes that will be checked and closed, if opened. Just add or remove the process name you want.
