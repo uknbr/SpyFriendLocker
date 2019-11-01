@@ -24,7 +24,7 @@ automatically terminate by locking the system.
   2. Time: Process Verification Time (ms)
 
 ## Screeshots
-![alt text](demo/example4.png "Ready to start!")\
-![alt text](demo/example.png "Monitoring & Recording")
-![alt text](demo/example2.bmp "Capture: Image 1")\
+![alt text](demo/example4.png "Ready to start!")
+![alt text](demo/example.png "Monitoring & Recording")\
+![alt text](demo/example2.bmp "Capture: Image 1")
 ![alt text](demo/example3.bmp "Capture: Image 2")
