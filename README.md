@@ -23,7 +23,7 @@ automatically terminate by locking the system.
   1. Path: Location where the captured images will be saved.
   2. Time: Process Verification Time (ms)
 
-## Screeshots
+## Screenshots
 ![alt text](demo/example4.png "Ready to start!")
 ![alt text](demo/example.png "Monitoring & Recording")\
 ![alt text](demo/example2.bmp "Capture: Image 1")
